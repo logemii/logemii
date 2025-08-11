@@ -10,8 +10,6 @@
 
 ```md
 
-I'm Emily, a fullstack developer, enjoyer of Rust among other things :3
-
 # 💭 A few things about me
 
 - 🍏 I really like green apples
