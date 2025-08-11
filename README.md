@@ -1,6 +1,6 @@
 
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=Hi%20There%20c:&fontColor=34d034&fontAlign=25&fontAlignY=55&desc=Welcome%20to%20my%20github%20profile!&descAlign=28&descAlignY=90">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=Hi%20There%20c:&fontColor=f73d9d&fontAlign=25&fontAlignY=55&desc=Welcome%20to%20my%20github%20profile!&descAlign=28&descAlignY=90">
 
 <div align="right">
   <a href="https://ko-fi.com/T6T012V93H"><img src="https://ko-fi.com/img/githubbutton_sm.svg"></a>
