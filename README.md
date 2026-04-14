@@ -10,6 +10,9 @@
 
 ```md
 
+# Find me on GitGud
+https://gitgud.io/logemi
+
 # 💭 A few things about me
 
 - 🍏 I really like green apples
