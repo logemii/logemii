@@ -10,8 +10,8 @@
 
 ```md
 
-# Find me on GitGud
-https://gitgud.io/logemi
+# Find me on Codeberg
+https://codeberg.org/logemi
 
 # 💭 A few things about me
 
